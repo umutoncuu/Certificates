@@ -22,3 +22,6 @@
 	
 
  * *DATACAMP*
+ 	* [Machine Learning Scientist with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/e64a1065d3d8df7f70ba0143d6daa40c4c6afcd4)
+ 	* [Data Literacy Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/6709e45d9f6ff4e5901bd9071fdda90a19bdfcff)
+ 	* [Data Skills for Business Track](https://www.datacamp.com/statement-of-accomplishment/track/3105b8664b753dbb465e1926b0fd1a986b4e58c6)
