@@ -14,7 +14,11 @@
 		* [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/43FQWLAUMWRL)
 		* [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/YVBXRNQGFJP9)
 	
-	*
+	* [SQL for Data Science](https://www.coursera.org/account/accomplishments/certificate/5CRTWKAUEPHJ)
+	* [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/certificate/3G6Z2D6HLC6T)
+	* [Introduction to Machine Learning](https://www.coursera.org/account/accomplishments/certificate/8Z92STUDEKE9)
+	* [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/TTEYUC4FPYGJ)
+	* [Cluster Analysis in Data Mining](https://www.coursera.org/account/accomplishments/certificate/GBSHLRM289D7)
 	
 
  
