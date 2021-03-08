@@ -8,5 +8,13 @@
 		* [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/9MYT374GY7PR)
 		* [Sequence Models](https://www.coursera.org/account/accomplishments/certificate/4YPC8TCP7SU7)
 	
+	* [DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/KPNJB4KMVYYY)
+		* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/SQFMWEYG6VKC)
+		* [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/K4PDC7KNCZ8B)
+		* [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/43FQWLAUMWRL)
+		* [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/YVBXRNQGFJP9)
+	
+	*
+	
 
  
